@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Engineering/Python/Physics
 - 🌱 I’m currently learning RDBMS, SQL and Pandas
 - 💞️ I’m looking to collaborate on simple Data projects
-- 📫 Reach me on: krystian.dziedzic12@gmail.com
 
 - ⚡ Fun fact: Humanity hasn't invented a more efficient way of producing power other than boiling water
 
